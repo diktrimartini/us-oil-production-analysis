@@ -10,7 +10,7 @@ This project analyzes crude oil production trends in the United State from 1981 
 
 ## Dataset
 Source: U.S. Energy Information Administration (EIA) (.gov)
-httpswww.eia.govdnavpetpet_crd_crpdn_adc_mbbl_m.htm
+www.eia.gov
 
 ## Key Finding
 - U.S. Oil production declined during the 1980s-1990s
