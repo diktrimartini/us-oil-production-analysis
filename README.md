@@ -27,9 +27,9 @@ httpswww.eia.govdnavpetpet_crd_crpdn_adc_mbbl_m.htm
 - Production reached its highest levels in recent years
 
 ### Key Statistics
-- Average Production: **241,498.18 barrels**
-- Highest Production: **429,777.00 barrels**
-- Lowest Production: **119,208.00 barrels**
+- Average Production: **241,498.18 thousand barrels**
+- Highest Production: **429,777.00 thousand barrels**
+- Lowest Production: **119,208.00 thousand barrels**
 
 ## Conclusion
 This analysis show strong upward trend in U.S. oil production in the last decade, driven by technological advancements in extraction.
