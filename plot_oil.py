@@ -23,7 +23,7 @@ plt.figure(figsize=(10,5)) # ukuran lebih kecil
 plt.plot(data['date'], data['us_production'], label='US')
 
 plt.xlabel("Year")
-plt.ylabel("Oil Production (Barrels)")
+plt.ylabel("Oil Production (Thousand Barrels)")
 plt.title("U.S. Crude oil Production Trend (1981-Present)")
 
 # format angka pakai koma
